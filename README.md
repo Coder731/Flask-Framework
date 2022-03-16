@@ -108,3 +108,6 @@ for left right alternating display
 
 ## jinja templates
 https://jinja.palletsprojects.com/en/3.0.x/
+
+- Template Designer Documentation
+    - List of Builtin Filters
