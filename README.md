@@ -70,3 +70,7 @@ https://startbootstrap.com/theme/clean-blog
 https://github.com/startbootstrap/startbootstrap-clean-blog/archive/gh-pages.zip
 
 this last one is the save as on the download link
+
+
+updated command:
+wget https://github.com/StartBootstrap/startbootstrap-clean-blog/archive/refs/tags/v5.0.10.zip
