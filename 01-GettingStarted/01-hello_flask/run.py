@@ -5,6 +5,7 @@ from flask import Flask # importing flask class
 app = Flask(__name__) # instance of flask
 
 # in python a decorator starts with the @ symbol which is also called pie notation
+# decorator is a way of wrapping functions
 @app.route("/")
 def index():
     return "Hello, World"
