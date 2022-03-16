@@ -1,8 +1,8 @@
 import os
-from flask import Flask
+from flask import Flask # importing flask class
 
 
-app = Flask(__name__) // instance of flask
+app = Flask(__name__) # instance of flask
 
 
 @app.route("/")
