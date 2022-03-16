@@ -83,3 +83,6 @@ ls
 unzip v5.0.10.zip
 cd -
 <!-- last command takes us back to previous directory -->
+
+note static files and folders are already in 02*/01*
+however, wget command necessary above
