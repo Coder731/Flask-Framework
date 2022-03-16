@@ -81,3 +81,5 @@ cd static
 wget https://github.com/StartBootstrap/startbootstrap-clean-blog/archive/refs/tags/v5.0.10.zip
 ls
 unzip v5.0.10.zip
+cd -
+<!-- last command takes us back to previous directory -->
