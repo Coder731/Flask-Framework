@@ -21,3 +21,6 @@ python3 01*/01*/run.py
 
 ## how to jinja 
 {{ url_for('index') }}
+
+## PEP8 compliant
+2 blank lines separate each function
