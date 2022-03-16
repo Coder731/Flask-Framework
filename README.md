@@ -102,3 +102,6 @@ click open browser in poup
 
 ## amp-what.com
 https://www.amp-what.com/
+
+## see flask / using if
+for left right alternating display
