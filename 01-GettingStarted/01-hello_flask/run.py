@@ -10,7 +10,7 @@ app = Flask(__name__) # instance of flask
 def index():
     return "Hello, World"
 
-
+# main wrapped in underscores is the name of the default module in python
 if __name__ == "__main__":
     app.run(
         host=os.environ.get("IP", "0.0.0.0"),
