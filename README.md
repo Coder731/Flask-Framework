@@ -18,3 +18,6 @@ touch app.py
 
 ## more cli commands
 python3 01*/01*/run.py
+
+## how to jinja 
+{{ url_for('index') }}
