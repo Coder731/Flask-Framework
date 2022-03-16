@@ -62,3 +62,4 @@ are for control flow of statements
 
 
 ## url for Bootstrap
+wget https://github.com/StartBootstrap/startbootstrap-clean-blog/archive/refs/tags/v5.0.10.zip
