@@ -105,3 +105,6 @@ https://www.amp-what.com/
 
 ## see flask / using if
 for left right alternating display
+
+## jinja templates
+https://jinja.palletsprojects.com/en/3.0.x/
