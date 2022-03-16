@@ -54,3 +54,8 @@ are for control flow of statements
     - e.g. for loop
     - if statement
     - or this block element
+
+    {% extends "base.html" %}
+    {% block content %}
+        <h1>Home Page</h1>
+    {% endblock %}
