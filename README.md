@@ -51,3 +51,6 @@ the
     {% block content %}
 {%}
 are for control flow of statements
+    - e.g. for loop
+    - if statement
+    - or this block element
