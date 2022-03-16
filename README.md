@@ -86,3 +86,15 @@ cd -
 
 note static files and folders are already in 02*/01*
 however, wget command necessary above
+
+## start again
+
+```
+pip3 install Flask
+```
+
+```
+python3 02*/02*/run.py
+```
+
+click open browser in poup
