@@ -74,3 +74,8 @@ this last one is the save as on the download link
 
 updated command:
 wget https://github.com/StartBootstrap/startbootstrap-clean-blog/archive/refs/tags/v5.0.10.zip
+
+## cli commands
+mkdir static
+cd static
+wget https://github.com/StartBootstrap/startbootstrap-clean-blog/archive/refs/tags/v5.0.10.zip
