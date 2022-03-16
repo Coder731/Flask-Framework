@@ -111,3 +111,8 @@ https://jinja.palletsprojects.com/en/3.0.x/
 
 - Template Designer Documentation
     - List of Builtin Filters
+
+## to conform code to template
+highlight code
+right click
+click format selection 
