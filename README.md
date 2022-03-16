@@ -14,3 +14,7 @@ touch app.py
 
 
 (naming conventions)
+
+
+## more cli commands
+python3 01*/01*/run.py
