@@ -32,3 +32,22 @@ for file and line number of error
 ## key shortcut
 ctrl shift k
 delete line of code
+
+## NB
+{{ url_for('careers') }}
+{{means outut to screen or}}
+
+{{ url_for('index') }}
+in this case 
+
+```
+            <li><a href="{{ url_for('index') }}">Home</a></li>
+```
+
+href
+
+
+the 
+    {% block content %}
+{%}
+are for control flow of statements
