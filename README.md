@@ -157,6 +157,10 @@ git remote -v
 gives verbose output about the remotes that I have
 
 ## push
+old code
+git push -u heroku master
+
+new code
 git push -u heroku master
 
 
