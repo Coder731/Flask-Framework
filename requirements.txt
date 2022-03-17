@@ -104,3 +104,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 wrapt==1.13.3
 zipp==3.7.0
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Werkzeug==1.0.1
