@@ -204,3 +204,4 @@ path to previous instructions
 ##### and back
 `pip3 freeze --local > requirements.txt`
 redireccts output of freeze command into requirements.txt
+pip3 freeze --local > requirements.txt
