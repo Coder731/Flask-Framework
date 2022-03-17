@@ -316,3 +316,15 @@ by
 
 heroku
 github
+
+## optional complete
+`git remote rm heroku`
+
+removes heroku
+
+## to push everything over to Github
+`git add -A`
+`git commit -m "Push to GitHub"`
+`git push origin master`
+
+got to GitHub Repository to check that it is updated with commit made
