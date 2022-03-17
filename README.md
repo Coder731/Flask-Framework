@@ -223,3 +223,8 @@ git push -u heroku master
 is synonymous with python
 lets heroku know
 this is a python app
+
+heroku found requirements.txt
+installed python
+and pip installed all the other requirements such as 
+Flask Jinja Click etc
