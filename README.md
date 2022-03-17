@@ -128,3 +128,7 @@ heroku apps
 heroku apps:rename <<new-name>> --<<app-being-referenced>>
                                     where app is cloud project
 
+## note
+every heroku app comes with its own url
+as well as its own
+git url
