@@ -296,3 +296,23 @@ back to Github
 also
 how to push files not in .gitignore
 to Github
+
+## own solution
+terminal
+new terminal
+`git remote`
+shows `heroku origin`
+
+
+### aside 2
+`git remote -v`
+
+shows current remotes that are connected.
+
+fetch
+push
+
+by
+
+heroku
+github
