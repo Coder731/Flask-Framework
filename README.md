@@ -228,3 +228,6 @@ heroku found requirements.txt
 installed python
 and pip installed all the other requirements such as 
 Flask Jinja Click etc
+
+failed load
+heroku logs --tail
