@@ -123,3 +123,7 @@ heroku login -i
 
 ## heroku
 heroku apps
+
+## optional
+heroku apps:rename <<new-name>>
+
