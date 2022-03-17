@@ -254,4 +254,13 @@ to Procfile
 (and command to run our application is going to be python run.py)
 (the file name)
 
+error ran:
+
+echo:web: python run.py > Procfile
+
+(generated Procfile)
+
+then correct command ran:
+
 `echo web: python run.py > Procfile`
+
