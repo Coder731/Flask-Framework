@@ -246,3 +246,13 @@ add this:
 `web: python run.py`
 
 to Procfile
+
+### next
+(aside: note: Procfile has capital P no lowercase p)
+(this is the requirement for Heroku)
+(tells Heroku that it's going to be a web process)
+(and command to run our application is going to be python run.py)
+(the file name)
+
+echo:web: python run.py > Procfile
+
