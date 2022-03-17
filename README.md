@@ -177,5 +177,5 @@ As a result, the command git push -u heroku master
 
 error: src refspec master does not match
 
-To solve this issue, please use the this command instead: git push -u heroku main
+To solve this issue, please use the this command instead: `git push -u heroku main`
 
