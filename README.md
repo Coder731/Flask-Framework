@@ -330,6 +330,6 @@ removes heroku
 got to GitHub Repository to check that it is updated with commit made
 
 ### aside 3
-note: says Publish branch
+note: says Publish Branch
 in SOURCE Control
 GUI sidebar
