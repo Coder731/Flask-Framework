@@ -116,3 +116,8 @@ https://jinja.palletsprojects.com/en/3.0.x/
 highlight code
 right click
 click format selection 
+
+
+## install heroku plugin
+heroku login -i
+
