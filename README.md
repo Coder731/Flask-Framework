@@ -254,5 +254,4 @@ to Procfile
 (and command to run our application is going to be python run.py)
 (the file name)
 
-echo:web: python run.py > Procfile
-
+`echo web: python run.py > Procfile`
