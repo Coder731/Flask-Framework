@@ -158,3 +158,14 @@ gives verbose output about the remotes that I have
 
 ## push
 git push -u heroku master
+
+
+## command line output
+remote:  !     No default language could be detected for this app.
+
+
+remote:  !     Push failed
+remote: Verifying deploy...
+remote: 
+remote: !       Push rejected
+
