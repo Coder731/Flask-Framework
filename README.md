@@ -125,5 +125,5 @@ heroku login -i
 heroku apps
 
 ## optional
-heroku apps:rename <<new-name>>
+heroku apps:rename <<new-name>> --<<app-being-referenced>>
 
