@@ -139,3 +139,15 @@ https://devcenter.heroku.com/articles/heroku-cli
 
 ## create app
 heroku create
+
+## next
+if necessary not already linked to git:
+git init
+not needed
+
+git add -A
+same as
+git add .
+
+
+git commit -m "Message"
