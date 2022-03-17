@@ -264,3 +264,6 @@ then correct command ran:
 
 `echo web: python run.py > Procfile`
 
+## push Procfile to heroku
+`git add Procfile`
+`git commit -m "Add Procfile"`
