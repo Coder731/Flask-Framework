@@ -151,3 +151,8 @@ git add .
 
 
 git commit -m "Message"
+
+if type
+git remote -v
+gives verbose output about the remotes that I have
+
