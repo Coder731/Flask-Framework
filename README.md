@@ -239,3 +239,10 @@ can see from previous command line output:
 remote:        Procfile declares types -> (none)
 
 The Procfile tells heroku how to run our application
+
+## step 4 Procfile
+add this:
+
+`web: python run.py`
+
+to Procfile
