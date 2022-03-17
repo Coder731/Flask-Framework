@@ -231,3 +231,6 @@ Flask Jinja Click etc
 
 failed load
 heroku logs --tail
+
+## failed because need to do step 4
+create a Procfile
