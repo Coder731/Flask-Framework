@@ -169,3 +169,11 @@ remote: Verifying deploy...
 remote: 
 remote: !       Push rejected
 
+## note
+Github recently changed the name of its default branch from master to main
+As a result, the command git push -u heroku master from this video will throw the following error:
+
+error: src refspec master does not match
+
+To solve this issue, please use the this command instead: git push -u heroku main
+
