@@ -189,3 +189,10 @@ To solve this issue, please use the this command instead: `git push -u heroku ma
 2 Connect Git remote to Heroku
 3 Create a requirements.txt file
 4 Create aHeroku 'Procfile'
+
+### step 3
+#### requirements.txt file
+- A requirements.txt file contains a list of the Python dependencies that our project needs
+- in order to run successfully.
+- It's also how Heroku can detect what language we're using.
+- (This is why last heroku push failed)
