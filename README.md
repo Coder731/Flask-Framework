@@ -270,3 +270,29 @@ then correct command ran:
 `git push`
 
 remote: !       Your account has reached its concurrent builds limit.
+
+
+## Post Heroku notes on
+
+if we leave app for a while and come back 
+takes longer to load as
+dynos waking back up
+
+## If want to  disconnect from Heroku and Deploy to GitHub
+Look under
+Deploy
+Deployment method
+click
+GitHub connect to
+
+copy repo name from GitHub
+
+
+## aside
+how to swap place push to 
+from heroku
+back to Github
+
+also
+how to push files not in .gitignore
+to Github
