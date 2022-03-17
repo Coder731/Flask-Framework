@@ -328,3 +328,8 @@ removes heroku
 `git push origin master`
 
 got to GitHub Repository to check that it is updated with commit made
+
+### aside 3
+note: says Publish branch
+in SOURCE Control
+GUI sidebar
