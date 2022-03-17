@@ -133,3 +133,6 @@ every heroku app comes with its own url
     - link to submit
 as well as its own
 git url
+
+## docs
+https://devcenter.heroku.com/articles/heroku-cli
