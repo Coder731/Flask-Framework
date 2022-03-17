@@ -130,5 +130,6 @@ heroku apps:rename <<new-name>> --<<app-being-referenced>>
 
 ## note
 every heroku app comes with its own url
+    - link to submit
 as well as its own
 git url
