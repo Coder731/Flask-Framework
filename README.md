@@ -200,3 +200,7 @@ To solve this issue, please use the this command instead: `git push -u heroku ma
 ##### aside
 /workspace/Flask-Framework/05-DeployingOurProjectToHeroku/04-pushing_to_heroku/Heroku_CLI_commands.md
 path to previous instructions
+
+##### and back
+`pip3 freeze --local > requirements.txt`
+redireccts output of freeze command into requirements.txt
