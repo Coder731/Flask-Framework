@@ -218,3 +218,8 @@ git push -u heroku main
 as previously specified
 but
 git push -u heroku master
+
+## requirements.txt
+is synonymous with python
+lets heroku know
+this is a python app
