@@ -121,3 +121,5 @@ click format selection
 ## install heroku plugin
 heroku login -i
 
+## heroku
+heroku apps
