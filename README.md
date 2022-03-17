@@ -203,8 +203,18 @@ path to previous instructions
 
 ##### and back
 `pip3 freeze --local > requirements.txt`
-redireccts output of freeze command into requirements.txt
+redirects output of freeze command into requirements.txt
 pip3 freeze --local > requirements.txt
 
 git add -A
 git commit -m "Add requirements.txt"
+
+## next
+git push -u heroku master
+
+### note
+not 
+git push -u heroku main
+as previously specified
+but
+git push -u heroku master
