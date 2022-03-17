@@ -183,3 +183,9 @@ error: src refspec master does not match
 
 To solve this issue, please use the this command instead: `git push -u heroku main`
 
+## 4 steps to deploy to heroku
+
+1 Create a Heroku App
+2 Connect Git remote to Heroku
+3 Create a requirements.txt file
+4 Create aHeroku 'Procfile'
