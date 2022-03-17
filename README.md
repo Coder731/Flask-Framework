@@ -234,3 +234,6 @@ heroku logs --tail
 
 ## failed because need to do step 4
 create a Procfile
+
+can see from previous command line output:
+remote:        Procfile declares types -> (none)
