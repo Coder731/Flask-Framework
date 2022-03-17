@@ -126,4 +126,5 @@ heroku apps
 
 ## optional
 heroku apps:rename <<new-name>> --<<app-being-referenced>>
+                                    where app is cloud project
 
