@@ -136,3 +136,6 @@ git url
 
 ## docs
 https://devcenter.heroku.com/articles/heroku-cli
+
+## create app
+heroku create
